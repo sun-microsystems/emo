@@ -1,6 +1,6 @@
-# Emotion
+# Emo
 
-Emotional is a dynamic language, emojii based (and a subset of JavaScript)☠️
+Emo is a dynamic language, emojii based (and a subset of JavaScript)☠️
 
 > WIP :construction:
 
